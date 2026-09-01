@@ -54,10 +54,10 @@ The analysis focuses on identifying:
 ```text
 📁 Data-Analytics-Project
 │
-├── 📄 dataset.csv
+├── 📄 ecommerce_customer_churn_dataset.csv
 ├── 📓 Data_Analytics_Project.ipynb
 ├── 📄 README.md
-
+└── 📁 visualizations
 ```
 
 ## Conclusion
